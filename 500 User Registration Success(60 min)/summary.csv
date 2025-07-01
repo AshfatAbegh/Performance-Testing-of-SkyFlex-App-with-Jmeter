@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+User Registration,500,22263,626,43083,12362.97,0.000%,9.44412,9.74,2.96,1056.0
+TOTAL,500,22263,626,43083,12362.97,0.000%,9.44412,9.74,2.96,1056.0
