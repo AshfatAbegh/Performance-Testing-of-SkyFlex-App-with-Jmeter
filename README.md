@@ -1,5 +1,3 @@
-# FlexEm is an innovative influencer reward platform designed to empower celebrity influencers through exclusive cashback offers and loyalty points. By partnering with renowned brands across diverse industries—such as Food, Fashion, Healthcare, Sports, and Technology—FlexEm enables influencers to create claims and receive exciting rewards for their engagement.
-
-The platform features a user-friendly Mobile Application for influencers to manage their brand interactions and offers, alongside a robust Admin Portal for seamless management of brands, offers, claims, cashback processes, and user activities.
+# FlexEm is an innovative influencer reward platform designed to empower celebrity influencers through exclusive cashback offers and loyalty points. By partnering with renowned brands across diverse industries—such as Food, Fashion, Healthcare, Sports, and Technology—FlexEm enables influencers to create claims and receive exciting rewards for their engagement. The platform features a user-friendly Mobile Application for influencers to manage their brand interactions and offers, alongside a robust Admin Portal for seamless management of brands, offers, claims, cashback processes, and user activities.
 
 # Conducted load testing for different set of users & time based on business needs and generated a report of the findings.
